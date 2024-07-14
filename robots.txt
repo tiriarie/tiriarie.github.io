@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tiriarie.github.io/sitemap.html.gz
+Sitemap: https://tiriarie.github.io/app/sitemap.html.gz
+Sitemap: https://tiriarie.github.io/assets/sitemap.html.gz
+Sitemap: https://tiriarie.github.io/css/sitemap.html.gz
+Sitemap: https://tiriarie.github.io/includes/sitemap.html.gz
+Sitemap: https://tiriarie.github.io/item/sitemap.html.gz
+Sitemap: https://tiriarie.github.io/src/sitemap.html.gz
